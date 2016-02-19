@@ -1,0 +1,3 @@
+[submodule "testgs_sub"]
+	path = testgs_sub
+	url = https://github.com/smatiz/testgs_sub.git
